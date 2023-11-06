@@ -17,4 +17,4 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)
     ]
 )
-logger = logging.getLogger(chicksickassistantLogger)
+logger = logging.getLogger("chicksickassistantLogger")
